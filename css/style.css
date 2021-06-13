@@ -1,0 +1,39 @@
+/* start header section */
+.header-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top:67px;
+    align-items:center;
+    flex-wrap: wrap;
+    }
+.nav-li{
+    display: inline-block;
+    text-transform: uppercase;
+    margin-left:25px;
+    font-family: 'Lato';
+    font-weight: bold;
+    color: #3D37F1;
+    font-size: 20px;
+}
+/* end header section */
+/* start section 1 */
+.section1-container{
+    display: flex;
+    justify-content: space-around;
+}
+.div-wave{
+    width: 263,67px;
+    height: 76,77px;
+    border-radius: 36px;
+    background-color: #3D37F1;
+    display: flex;
+    justify-content: space-around;
+}
+.image{
+    width:801px;
+    height: 526,63px;
+
+}
+
+
+/* end section1 */
