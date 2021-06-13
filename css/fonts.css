@@ -12,18 +12,6 @@
 }
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-Light.eot');
-    src: url('Lato-Light.eot?#iefix') format('embedded-opentype'),
-        url('Lato-Light.woff2') format('woff2'),
-        url('Lato-Light.woff') format('woff'),
-        url('Lato-Light.ttf') format('truetype'),
-        url('Lato-Light.svg#Lato-Light') format('svg');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'Lato';
     src: url('../fonts/Lato-Regular.eot');
     src: url('../fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
         url('../fonts/Lato-Regular.woff2') format('woff2'),
